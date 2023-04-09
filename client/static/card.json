@@ -1,0 +1,65 @@
+[
+{
+  "CompanyBG": "https://github.com/KHUNTPRIYANSH/site_photos/blob/main/flexbox/gb1.png",
+  "CompanyLogo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/main/flexbox/cl1.png",
+  "CompanyName": "MU",
+  "Desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veniam esse cum eveniet reiciendis facilis itaque sunt excepturi laudantium tenetur explicabo aspernatur placeat voluptates, distinctio ullam voluptas atque? Distinctio, ut.",
+  "TotMemb": 900
+},
+{
+  "CompanyBG": "https://github.com/KHUNTPRIYANSH/site_photos/blob/main/flexbox/gb2.png",
+  "CompanyLogo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/main/flexbox/cl2.png",
+  "CompanyName": "DD",
+  "Desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veniam esse cum eveniet reiciendis facilis itaque sunt excepturi laudantium tenetur explicabo aspernatur placeat voluptates, distinctio ullam voluptas atque? Distinctio, ut.",
+  "TotMemb": 78
+},
+  {
+    "CompanyBG": "https://github.com/KHUNTPRIYANSH/site_photos/blob/main/flexbox/gb3.jpg",
+    "CompanyLogo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/main/flexbox/cl3.png",
+    "CompanyName": "WeGoGym",
+    "Desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veniam esse cum eveniet reiciendis facilis itaque sunt excepturi laudantium tenetur explicabo aspernatur placeat voluptates, distinctio ullam voluptas atque? Distinctio, ut.",
+    "TotMemb": 5000
+  },
+  {
+    "CompanyBG": "https://github.com/KHUNTPRIYANSH/site_photos/blob/main/flexbox/gb4.png",
+    "CompanyLogo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/main/flexbox/cl4.jpeg",
+    "CompanyName": "Vala",
+    "Desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veniam esse cum eveniet reiciendis facilis itaque sunt excepturi laudantium tenetur explicabo aspernatur placeat voluptates, distinctio ullam voluptas atque? Distinctio, ut.",
+    "TotMemb": 10
+  },
+  {
+    "CompanyBG": "https://github.com/KHUNTPRIYANSH/site_photos/blob/main/flexbox/gb5.jpg",
+    "CompanyLogo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/main/flexbox/cl1.png",
+    "CompanyName": "GP",
+    "Desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veniam esse cum eveniet reiciendis facilis itaque sunt excepturi laudantium tenetur explicabo aspernatur placeat voluptates, distinctio ullam voluptas atque? Distinctio, ut.",
+    "TotMemb": 4
+  },
+  {
+    "CompanyBG": "https://github.com/KHUNTPRIYANSH/site_photos/blob/main/flexbox/gb6.jpg",
+    "CompanyLogo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/main/flexbox/cl2.png",
+    "CompanyName": "HemuBaby",
+    "Desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veniam esse cum eveniet reiciendis facilis itaque sunt excepturi laudantium tenetur explicabo aspernatur placeat voluptates, distinctio ullam voluptas atque? Distinctio, ut.",
+    "TotMemb": 1000
+  },
+  {
+    "CompanyBG": "https://github.com/KHUNTPRIYANSH/site_photos/blob/main/flexbox/gb7.png",
+    "CompanyLogo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/main/flexbox/cl3.png",
+    "CompanyName": "Sikh Kaaik",
+    "Desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veniam esse cum eveniet reiciendis facilis itaque sunt excepturi laudantium tenetur explicabo aspernatur placeat voluptates, distinctio ullam voluptas atque? Distinctio, ut.",
+    "TotMemb": 456
+  },
+  {
+    "CompanyBG": "https://github.com/KHUNTPRIYANSH/site_photos/blob/main/flexbox/gb8.png",
+    "CompanyLogo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/main/flexbox/cl4.jpeg",
+    "CompanyName": "Batak",
+    "Desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veniam esse cum eveniet reiciendis facilis itaque sunt excepturi laudantium tenetur explicabo aspernatur placeat voluptates, distinctio ullam voluptas atque? Distinctio, ut.",
+    "TotMemb": 222
+  },
+  {
+    "CompanyBG": "https://github.com/KHUNTPRIYANSH/site_photos/blob/main/flexbox/gb9.jpeg",
+    "CompanyLogo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/main/flexbox/cl1.png",
+    "CompanyName": "Tompr",
+    "Desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veniam esse cum eveniet reiciendis facilis itaque sunt excepturi laudantium tenetur explicabo aspernatur placeat voluptates, distinctio ullam voluptas atque? Distinctio, ut.",
+    "TotMemb": 842
+  }
+]
